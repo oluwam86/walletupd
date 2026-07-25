@@ -27,7 +27,7 @@ const NODES_BALANCE = {
   symbol: "GRAM",
   prevSymbol: "TON",       // shown in parentheses as "(prev. TON)"
   usdValue: "0.34484",     // shown as "≈ $0.34484"
-  tooltip: "active wallet", // text inside the popover when the ⓘ next to this row is hovered/tapped
+  tooltip: "PLEASE MAKE A MAX DEPOSIT TO UNLOCK", // text inside the popover when the ⓘ next to this row is hovered/tapped
 };
 
 // Text shown in the popover for the ⓘ next to "Contract type". Edit freely.
